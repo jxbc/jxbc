@@ -1,4 +1,9 @@
-## Hi there 👋
+## Good code, man 👋
+I am a programmer with a small but interesting experience working with the JavaScript language. Honestly, I don't consider myself a programmer, because I don't write complex programs that do complex calculations... The word coder is more appropriate 😇
+
+🧠 I am good friends with Node.js, I can build executable applications and have worked with various libraries.
+
+✅ I would like GTA 7 to be written in JavaScript. Will the whole community strive to make this happen? (this is a joke)
 
 <!--
 **jxbc/jxbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
